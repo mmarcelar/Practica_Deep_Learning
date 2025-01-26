@@ -1,0 +1,8 @@
+.venv*
+.venv*/
+.venv*/*
+
+**/*.pyc
+
+**/main.jpg
+*/**/main.jpg
